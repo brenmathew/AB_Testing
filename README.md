@@ -25,7 +25,7 @@ The provided `grocery_database.xlsx` consists of the following tables:
 
 - **Independent Samples T-Test (Real Campaign Data)**
   - Objective: Compare signup rates between Mailer 1 and Mailer 2 recipients.
-  - Script: `1_Independent_Samples_T_test.py`
+  - Script: `1_chi_square_test.py`
 
 - **One-Sample T-Test (Synthetic Data)**
   - Objective: Test if the sample mean significantly differs from a known population mean.
